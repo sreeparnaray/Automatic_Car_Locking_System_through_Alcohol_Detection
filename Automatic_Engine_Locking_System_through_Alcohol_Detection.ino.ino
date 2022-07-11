@@ -1,11 +1,4 @@
 //Automatic Engine Locking System using Alcohol Detection
-//By Group-2
-//Aman Shree Prasad   - 10801619062
-//Sreeparna Ray       - 10800319054
-//Gaddam Shankar      - 10800319039
-//Aditi Raj           - 10800319041
-//Pallabi Sadhu       - 10800320079
-
 
 #define sensorDigital A0
 #define Motor 9
